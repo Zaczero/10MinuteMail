@@ -2,6 +2,9 @@
 
 Simple API wrapper for https://10minutemail.com/
 
+## Download
+* https://github.com/Zaczero/10MinuteMail/releases/latest
+
 ## Sample code
 
 ```cs
