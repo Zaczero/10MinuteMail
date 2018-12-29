@@ -2,7 +2,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace TenMinuteMail
+namespace _10MinuteMail
 {
     public class TenMinuteMail
     {

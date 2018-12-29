@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace TenMinuteMail.Test
+namespace _10MinuteMail.Test
 {
     class Program
     {

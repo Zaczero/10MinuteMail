@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TenMinuteMail
+namespace _10MinuteMail
 {
     [Serializable]
     public struct Mail
