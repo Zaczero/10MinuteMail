@@ -1,5 +1,9 @@
 # 10MinuteMail
 
+![](https://img.shields.io/github/release/Zaczero/10MinuteMail.svg)
+![](https://img.shields.io/nuget/v/10MinuteMail.com.svg)
+![](https://img.shields.io/github/license/Zaczero/10MinuteMail.svg)
+
 Simple API wrapper for https://10minutemail.com/
 
 ## Download
