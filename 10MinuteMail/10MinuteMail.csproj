@@ -3,20 +3,30 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>10MinuteMail</RootNamespace>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
     <Authors>Zaczero (Kamil Monicz)</Authors>
-    <Company>Zaczero (Kamil Monicz)</Company>
     <Description>Simple API wrapper for https://10minutemail.com/</Description>
-    <Copyright>Copyright (c) Zaczero (Kamil Monicz) 2019</Copyright>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageLicenseUrl>https://github.com/Zaczero/10MinuteMail/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>Copyright © Kamil Monicz 2020</Copyright>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Zaczero/10MinuteMail</PackageProjectUrl>
-    <PackageTags>10minutemail, 10mail, 10minute, disposable, disposable-email, temporary, net, standard</PackageTags>
+    <PackageTags>10minutemail, 10mail, 10minute, disposable, disposable-email, email, mail, temporary, net, standard</PackageTags>
     <PackageId>10MinuteMail.com</PackageId>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <Company />
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/Zaczero/10MinuteMail</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 
 </Project>
