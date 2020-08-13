@@ -54,4 +54,4 @@ View the [Mail structure](https://github.com/Zaczero/10MinuteMail/blob/master/10
 ### 📃 License
 
 * [Zaczero/10MinuteMail](https://github.com/Zaczero/10MinuteMail/blob/master/LICENSE)
-* [Tor.NET](https://www.codeproject.com/info/cpol10.aspx)
+* [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md)
